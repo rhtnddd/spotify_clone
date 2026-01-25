@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-export const HomeMoblie = () => {
+export const HomeMobile = () => {
   return (
     <>
     </>
