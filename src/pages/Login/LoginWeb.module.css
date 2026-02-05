@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Noto+Sans+KR:wght@100..900&family=Press+Start+2P&display=swap');
 .logintext {
     color: white;
     font-family: "Press Start 2P", system-ui;
@@ -8,4 +8,5 @@
     position: relative;
     -webkit-text-stroke: 1px;
     bottom: 336px;
+    word-spacing: -50px;
 }
