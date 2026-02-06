@@ -10,3 +10,13 @@
     bottom: 336px;
     word-spacing: -50px;
 }
+.logo{
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 1040px;
+    position: absolute;
+    display: block;
+    margin: 0 auto; 
+    width: 54px;
+    height: 54px;
+}
