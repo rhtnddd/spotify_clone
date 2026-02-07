@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Noto+Sans+KR:wght@100..900&family=Press+Start+2P&display=swap');
+
 .logintext {
     color: white;
     font-family: "Press Start 2P", system-ui;
@@ -10,6 +11,24 @@
     bottom: 336px;
     word-spacing: -50px;
 }
+
+.container {
+  width: 420px;
+  margin: 0 auto;
+}
+
+.loginemail{
+    color: white;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 900;
+    font-size: 19.4px;
+    word-spacing: -17px;
+    display: block;
+    position: absolute;
+    bottom: 798px;  
+    transform: translateX(-5%);
+}
+
 .logo{
     left: 50%;
     transform: translateX(-50%);
